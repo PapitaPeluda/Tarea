@@ -1,2 +1,3 @@
-# Tarea
-Es un trabajo :c
+<?php
+echo "mensaje";
+?>
